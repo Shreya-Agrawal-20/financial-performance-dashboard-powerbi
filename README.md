@@ -1,5 +1,3 @@
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/3efea53f-882c-4973-b509-466a2719bf53" /># 📊 Financial Performance & Sales Analytics Dashboard | Power BI
-
 An interactive Power BI dashboard analyzing sales, profit, and performance metrics across countries, products, and customer segments using the Financial Sample dataset.
 
 ## 🎯 Project Overview
@@ -28,11 +26,11 @@ The "None" discount band shows the lowest profit contribution, while "Low" disco
 ## 📷 Dashboard Preview
 
 ### Overview Page
-<img width="960" height="540" alt="Screenshot 2026-07-23 131342" src="https://github.com/user-attachments/assets/b1f406fd-7ab8-4519-86ed-e5d878fef2ec" />
-
+<img width="960" height="540" alt="Screenshot 2026-07-23 140550" src="https://github.com/user-attachments/assets/f48ea478-bd13-47a1-bbc8-6cb9824b6b2d" />
 
 ### Analysis Page
-<img width="960" height="540" alt="Screenshot 2026-07-23 140550" src="https://github.com/user-attachments/assets/f48ea478-bd13-47a1-bbc8-6cb9824b6b2d" />
+<img width="960" height="540" alt="Screenshot 2026-07-23 131342" src="https://github.com/user-attachments/assets/b1f406fd-7ab8-4519-86ed-e5d878fef2ec" />
+
 
 
 ## 📂 Dataset
